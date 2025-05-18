@@ -91,7 +91,7 @@ namespace LayananDigitalBank
                         backToMenuNarik=false;
                     }
                 }
-                catch
+                catch (Exception e)
                 {
                     Console.WriteLine("ERROR: karena ini sebuah program berfokus untuk matkul OOP, message error gini saja");
                 }
@@ -125,7 +125,7 @@ namespace LayananDigitalBank
                         backToMenuSetor = false;
                     }
                 }
-                catch
+                catch (Exception e)
                 {
                     Console.WriteLine("ERROR: karena ini sebuah program berfokus untuk matkul OOP, message error gini saja");
                 }
