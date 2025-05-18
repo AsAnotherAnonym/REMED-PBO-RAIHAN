@@ -1,0 +1,14 @@
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\bin\Debug\net8.0\Remed UTS PBO.exe
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\bin\Debug\net8.0\Remed UTS PBO.deps.json
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\bin\Debug\net8.0\Remed UTS PBO.runtimeconfig.json
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\bin\Debug\net8.0\Remed UTS PBO.dll
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\bin\Debug\net8.0\Remed UTS PBO.pdb
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.AssemblyInfoInputs.cache
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.AssemblyInfo.cs
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.csproj.CoreCompileInputs.cache
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.dll
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\refint\Remed UTS PBO.dll
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.pdb
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\Remed UTS PBO.genruntimeconfig.cache
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\TUGAS SEM 2\kumpulan _NET\PBO\Remed UTS PBO\Remed UTS PBO\obj\Debug\net8.0\ref\Remed UTS PBO.dll
